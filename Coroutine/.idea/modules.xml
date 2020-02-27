@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Coroutine.iml" filepath="$PROJECT_DIR$/Coroutine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Coroutine.iml" filepath="$PROJECT_DIR$/.idea/Coroutine.iml" />
+>>>>>>> 284eebcec6da8fbec674d4707350c923b0232d8c
+    </modules>
+  </component>
+</project>
